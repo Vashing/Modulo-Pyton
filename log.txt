@@ -1,0 +1,5 @@
+Se ingresaron: $500.0 a las 2024-08-15 21:44:27.
+Se retiraron: $100.0 a las 2024-08-15 21:44:45.
+Se retiraron: $500.0 a las 2024-08-15 21:44:53.
+Se ingresaron: $500.0 a las 2024-08-15 21:47:14.
+Se retiraron: $100.0 a las 2024-08-15 21:47:18.
